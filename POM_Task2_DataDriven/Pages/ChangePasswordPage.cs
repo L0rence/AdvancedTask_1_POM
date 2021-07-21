@@ -10,6 +10,7 @@ namespace POM_Task2_DataDriven.Pages
 {
     public class ChangePasswordPage
     {
+        //Change password
         private readonly IWebDriver driver;
         private SignInPage signIn;
 
